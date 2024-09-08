@@ -46,10 +46,16 @@ SSC - 89.60% (2017 – 2018)
 
 ---
 
-## 💼 Internship
+## 💼 Experience
+
+**Software Engineer**  
+*Equations Work* | September 2024 – Present | Pune, India
+
+- ⚙️ **Backend Development:** Implemented containerization using Docker, deployed on Amazon EC2 instances provisioned
+with Terraform. Developed a system to run Docker-in-Docker for isolated environments in an auto-scaling setup.
 
 **Trainee Software Engineer**  
-*Equations Work* | March 2024 – Present | Pune, India
+*Equations Work* | March 2024 – August 2024 | Pune, India
 
 - ⚙️ **Backend Development:** Developed APIs using Flask for interaction with large language models and databases.
 - 💡 **LLM Integration:** Integrated APIs from ChatGPT, Anthropic, and Stable Diffusion into applications.
