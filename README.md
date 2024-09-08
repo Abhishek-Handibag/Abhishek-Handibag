@@ -2,7 +2,7 @@
 
 **📍 Pune, India**  
 📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  
-💼 [LinkedIn: Abhishek-Handibag](https://linkedin.com/in/abhishek-handibag)  <br>
+💼 [LinkedIn: Abhishek-Handibag](https://linkedin.com/in/abhishek-handibag) <br> 
 🌐 [GitHub: Abhishek-Handibag](https://github.com/Abhishek-Handibag)
 
 ---
@@ -21,14 +21,17 @@ SSC - 89.60% (2017 – 2018)
 
 ---
 
-## 🛠️ Skills & Coursework
+## 🛠️ Skills & Technologies
 
-- 💻 **Programming Languages:** Python, JavaScript, C, SQL, NoSQL
-- 🔧 **Libraries/Frameworks:** React, Flask, Express.js, Django
-- 🐳 **Developer Tools:** Docker, VS Code, PyCharm, Jupyter Notebook, Git, GitHub, GitHub Actions
-- ☁️ **Technologies:** AWS (EC2), Terraform, Linux, Node.js
-- 📊 **Data & Analytics Tools:** PowerBI, PostgreSQL, MongoDB
-- 🎨 **Front-End:** Material UI, Bootstrap
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
