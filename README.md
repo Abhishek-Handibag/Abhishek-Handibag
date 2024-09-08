@@ -2,7 +2,8 @@
 
 **📍 Pune, India**  
 📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  
-💼 [LinkedIn: Abhishek-Handibag](https://linkedin.com/in/abhishek-handibag) | 🌐 [GitHub: Abhishek-Handibag](https://github.com/Abhishek-Handibag)
+💼 [LinkedIn: Abhishek-Handibag](https://linkedin.com/in/abhishek-handibag) |
+🌐 [GitHub: Abhishek-Handibag](https://github.com/Abhishek-Handibag)
 
 ---
 
