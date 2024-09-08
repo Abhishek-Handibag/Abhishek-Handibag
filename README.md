@@ -1,7 +1,7 @@
 # 👨‍💻 Abhishek Handibag
 
 **📍 Pune, India**  
-📞 +91-8329756270 | 📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  
+📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  
 💼 [LinkedIn: Abhishek-Handibag](https://linkedin.com/in/abhishek-handibag) | 🌐 [GitHub: Abhishek-Handibag](https://github.com/Abhishek-Handibag)
 
 ---
