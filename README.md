@@ -78,6 +78,17 @@ with Terraform. Developed a system to run Docker-in-Docker for isolated environm
 *Python, Pandas, Flask, HTML, CSS*  
 - Implemented a stock portfolio tracker for users to monitor stock details such as purchase cost, current cost, total shares, and profit/loss.
 
+### 🔒 **VaultShare (A Secure Share Hub)**  
+*React, Redux Toolkit, Material-UI, Django REST Framework, Docker*  
+- Developed a secure file-sharing platform with end-to-end encryption ensuring client-side encryption of files before upload using AES-128 (Fernet).  
+- Implemented robust user authentication featuring email/password registration, OTP-based login verification, JWT tokens stored in HTTP-only cookies, and secure password reset flows.  
+- Designed granular sharing controls allowing users to share files with specific users by email with customizable permissions or generate time-limited, password-protected public share links.  
+- Built a responsive React front end with Redux for state management and Material-UI for theming, coupled with a Django REST back end providing secure RESTful APIs.  
+- Containerized the entire stack using Docker Compose including frontend, backend, and Nginx reverse proxy for seamless deployment and scalability.  
+- Integrated cryptographic key wrapping where each file’s symmetric key is encrypted with a PBKDF2-derived key from the user’s password, enhancing security of stored keys.  
+- Enabled comprehensive file management with features to list owned and shared files, view metadata, revoke shares, and delete files securely.  
+- Ensured security best practices by implementing client-side encryption, secure token handling, and expiring share links to protect user data and privacy.
+
 ---
 
 ## 🏆 Achievements
