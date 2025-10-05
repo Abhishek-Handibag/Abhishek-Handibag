@@ -1,8 +1,11 @@
 # 👨‍💻 Abhishek Handibag
 
 **AI Engineer | Generative AI | Multi-Agent Systems | LLM Integrations**  
-📍 Pune, India | 📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/abhishek-handibag) • 🌐 [Portfolio](https://me.deepquerry.com) • 🧭 [GitHub](https://github.com/Abhishek-Handibag)
+📍 Pune, India | 
+📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/abhishek-handibag) 
+🌐 [Portfolio](https://me.deepquerry.com) 
+🧭 [GitHub](https://github.com/Abhishek-Handibag)
 
 ---
 
@@ -15,24 +18,23 @@ I love creating AI tools that solve real-world problems — from enhancing devel
 
 ---
 
-## 💼 Experience  
+## 💼 Experience   
 
 ### **Software Engineer — Equations Work**  
 📅 *Sep 2024 – Present | Pune, India*  
 
-- 🧠 **CSE Platform** Designed a unified **AI orchestration system** to assist cloud support engineers using **Azure AI Foundry**, **Semantic Kernel**, and **MCP servers**. Built specialized AI agents for log analysis, incident detection, and automated resolution — reducing incident resolution time by **77%**.  
-- 🛡️ **Superhero (Guardian Layer):** Performed AI red teaming using **PYRIT**, mitigating vulnerabilities in multi-agent workflows. Integrated **Azure AI Content Safety** for grounding and secure generation.  
-- 🧩 **Vision Studio:** Developed a **zero-shot annotation pipeline** using **OWLv2** and **Grounding DINO** with a **Gradio HITL interface** for mechanical parts labeling.  
-- 💬 **MicroLearning Guru (Experizer.ai):** Built an **AI chatbot** using **FastAPI**, **LangChain**, **Gemini**, and **PGVector**, enabling context-aware AR/VR learning assistance.
+Contributing to the development of **AI-driven enterprise solutions** involving **multi-agent orchestration**, **retrieval-augmented generation (RAG)**, and **AI red teaming**.  
+Focused on integrating and deploying **LLM-based systems** using **Azure AI Foundry**, **Semantic Kernel**, **LangChain**, and **MCP servers**.  
+Worked across the AI development lifecycle — from designing intelligent pipelines and secure agent communication layers to implementing **safety, monitoring, and automation frameworks**.  
 
 ---
 
 ### **Trainee Software Engineer — Equations Work**  
 📅 *Mar 2024 – Aug 2024 | Pune, India*  
 
-- 🎥 **Bay – Multimodal Chatbot:** Engineered an AI pipeline converting YouTube videos into searchable knowledge bases using **Flask**, **PGVector**, and **React**.  
-- 🌐 **Experizer Community Platform:** Created a **GenAI-powered moderation system** using **Google Gemini** and integrated it with a **NodeBB** forum via **secure SSO bridging** (MySQL–MongoDB).  
-- 🧪 **Synthesizer Platform:** Developed an **LLM-based synthetic data generation system** with **FastAPI**, **PostgreSQL**, and **LangChain** for customizable dataset creation.
+Worked on **AI-powered applications** and **GenAI-integrated platforms**, contributing to backend and frontend components using **Flask**, **FastAPI**, **React**, and **PostgreSQL**.  
+Implemented **RAG pipelines**, **synthetic data generation tools**, and **context-aware chatbot systems** leveraging **LangChain**, **Gemini**, and **PGVector**.  
+Gained practical experience in **AI deployment**, **multi-agent design**, and **cross-platform integration** in production-scale environments.
 
 ---
 
