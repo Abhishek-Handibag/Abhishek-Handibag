@@ -44,6 +44,8 @@ I love creating AI tools that solve real-world problems — from enhancing devel
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-4B8BBE?style=for-the-badge&logo=langchain&logoColor=white)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0062AD?style=for-the-badge&logo=azure-cosmos-db&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
