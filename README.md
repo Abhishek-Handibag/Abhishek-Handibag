@@ -20,7 +20,7 @@ I love creating AI tools that solve real-world problems — from enhancing devel
 ### **Software Engineer — Equations Work**  
 📅 *Sep 2024 – Present | Pune, India*  
 
-- 🧠 ** AI Platform:** Designed a unified **AI orchestration system** to assist cloud support engineers using **Azure AI Foundry**, **Semantic Kernel**, and **MCP servers**. Built specialized AI agents for log analysis, incident detection, and automated resolution — reducing incident resolution time by **77%**.  
+- 🧠 **CSE Platform** Designed a unified **AI orchestration system** to assist cloud support engineers using **Azure AI Foundry**, **Semantic Kernel**, and **MCP servers**. Built specialized AI agents for log analysis, incident detection, and automated resolution — reducing incident resolution time by **77%**.  
 - 🛡️ **Superhero (Guardian Layer):** Performed AI red teaming using **PYRIT**, mitigating vulnerabilities in multi-agent workflows. Integrated **Azure AI Content Safety** for grounding and secure generation.  
 - 🧩 **Vision Studio:** Developed a **zero-shot annotation pipeline** using **OWLv2** and **Grounding DINO** with a **Gradio HITL interface** for mechanical parts labeling.  
 - 💬 **MicroLearning Guru (Experizer.ai):** Built an **AI chatbot** using **FastAPI**, **LangChain**, **Gemini**, and **PGVector**, enabling context-aware AR/VR learning assistance.
