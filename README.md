@@ -2,7 +2,7 @@
 
 **AI Engineer | Generative AI | Multi-Agent Systems | LLM Integrations**  
 
-📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  | 💼 [LinkedIn](https://linkedin.com/in/abhishek-handibag)  | 🌐 [Portfolio](https://me.deepquerry.com)  |🧭 [GitHub](https://github.com/Abhishek-Handibag) <br>
+[abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)  | [LinkedIn](https://linkedin.com/in/abhishek-handibag)  | [Portfolio](https://me.deepquerry.com)  | [GitHub](https://github.com/Abhishek-Handibag) <br>
 📍 Pune, India 
 ---
 
