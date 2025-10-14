@@ -88,12 +88,6 @@ Gained practical experience in **AI deployment**, **multi-agent design**, and **
 
 ---
 
-## 📈 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Handibag&layout=compact&theme=tokyonight)  
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Handibag&show_icons=true&theme=tokyonight)
-
----
 
 ## 💬 Let’s Collaborate  
 
