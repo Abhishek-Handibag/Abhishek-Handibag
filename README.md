@@ -24,7 +24,7 @@ Currently working on **enterprise-scale AI platforms** involving **multi-agent o
 Contributing to the development of **AI-driven enterprise solutions** involving **multi-agent orchestration**, **retrieval-augmented generation (RAG)**, and **AI security**.
 
 **Key Focus Areas:**
-- 🤖 Designing and implementing **multi-agent systems** using **Azure AI Foundry** and **Microsoft Agent Framework**
+- 🤖 Designing and implementing **multi-agent systems** using **Azure AI Foundry** and **Semantic Kernel**
 - 🔒 Conducting **AI Red Teaming** with **PYRIT** to identify vulnerabilities and implement guardrails
 - 🛡️ Integrating **Azure AI Content Safety** for secure content generation and grounding verification
 - 🎯 Building **zero-shot object detection pipelines** with **OWLv2**, **Grounding DINO**, and **YOLOv11**
@@ -32,7 +32,7 @@ Contributing to the development of **AI-driven enterprise solutions** involving 
 - 🔧 Creating **MCP (Model Context Protocol) servers** for real-time data integration
 - ⚡ Implementing **AI orchestration workflows** with **Azure Logic Apps**
 
-**Technologies:** FastAPI, PostgreSQL, PGVector, Azure AI Foundry, Microsoft Agent Framework, PYRIT, LangChain, Gemini, YOLOv11, Gradio
+**Technologies:** Azure AI Foundry, Semantic Kernel, PYRIT, LangChain, Gemini, FastAPI, PostgreSQL, PGVector, YOLOv11, Gradio
 
 ---
 
@@ -59,6 +59,7 @@ Worked on **AI-powered applications** and **GenAI-integrated platforms**, contri
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Large Language Models](https://img.shields.io/badge/LLM-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-4B8BBE?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge&logo=github&logoColor=white)
 
@@ -66,6 +67,7 @@ Worked on **AI-powered applications** and **GenAI-integrated platforms**, contri
 ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-4B8BBE?style=for-the-badge&logo=protocol&logoColor=white)
 ![RAG Application](https://img.shields.io/badge/RAG--Application-FF6F00?style=for-the-badge&logo=readme&logoColor=white)
 
@@ -106,6 +108,31 @@ Worked on **AI-powered applications** and **GenAI-integrated platforms**, contri
 
 ## 🛠️ Featured Projects
 
+### **StockSage - AI-Powered Multi-Agent Financial Intelligence System** ⭐
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+**[View Repository →](https://github.com/Abhishek-Handibag/StockSage)**
+
+A professional-grade AI-powered multi-agent system built with **Google's Agent Development Kit (ADK)** and **FastAPI** for comprehensive financial market analysis and web intelligence.
+
+**🎯 Key Features:**
+- 🤖 **Multi-Agent Architecture** with Coordinator/Dispatcher pattern and LLM-driven delegation
+- 📊 **Financial Data Analysis** via Alpha Vantage MCP integration (stocks, forex, crypto, commodities)
+- 🌐 **Web Intelligence** with Google Custom Search and web scraping capabilities
+- 📈 **Technical & Fundamental Analysis** (RSI, MACD, SMA, EMA, earnings, balance sheets)
+- 🚀 **Production-Ready REST API** with comprehensive Swagger documentation
+- 💬 **Intelligent Query Routing** using Gemini 2.5 Flash for automatic agent delegation
+
+**Technical Architecture:**
+- **Chat Orchestrator Agent**: LLM-driven coordinator using `transfer_to_agent()` for intelligent routing
+- **Data Researcher Agent**: Financial specialist with Alpha Vantage MCP integration
+- **Web Intelligence Agent**: Multi-agent loop for web research and news aggregation
+- **FastAPI Backend**: Async/await architecture with session management and health monitoring
+
+**Technologies:** Google ADK, Gemini 2.5 Flash, FastAPI, Alpha Vantage MCP, BeautifulSoup4, Uvicorn, Pydantic
+
+---
+
 ### **Driver Drowsiness Detection System**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
@@ -114,6 +141,8 @@ Real-time drowsiness detection system leveraging **facial landmarks (EAR, MAR, F
 - ✅ Automated dataset generation for validation
 - ✅ Web interface using Flask, HTML, and CSS
 - ✅ Designed for potential in-vehicle deployment
+
+---
 
 ### **VaultShare - Secure File Sharing Platform**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -145,11 +174,12 @@ Engineered a secure file-sharing platform with enterprise-grade security feature
 
 ## 🔭 Current Focus
 
-- 🤖 Multi-agent orchestration frameworks and agent coordination patterns
+- 🤖 Multi-agent orchestration frameworks (Google ADK, CrewAI, LangGraph)
 - 🔒 AI security, red teaming, and guardrail implementation
 - 🧠 Advanced RAG architectures and semantic search systems
 - 🎯 Zero-shot learning and foundation model fine-tuning
 - ⚡ LLM optimization and prompt engineering
+- 🔧 Model Context Protocol (MCP) server development
 
 ---
 
