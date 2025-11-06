@@ -24,7 +24,7 @@ Currently working on **enterprise-scale AI platforms** involving **multi-agent o
 Contributing to the development of **AI-driven enterprise solutions** involving **multi-agent orchestration**, **retrieval-augmented generation (RAG)**, and **AI security**.
 
 **Key Focus Areas:**
-- 🤖 Designing and implementing **multi-agent systems** using **Azure AI Foundry** and **Semantic Kernel**
+- 🤖 Designing and implementing **multi-agent systems** using **Azure AI Foundry** and **Microsoft Agent Framework**
 - 🔒 Conducting **AI Red Teaming** with **PYRIT** to identify vulnerabilities and implement guardrails
 - 🛡️ Integrating **Azure AI Content Safety** for secure content generation and grounding verification
 - 🎯 Building **zero-shot object detection pipelines** with **OWLv2**, **Grounding DINO**, and **YOLOv11**
@@ -32,7 +32,7 @@ Contributing to the development of **AI-driven enterprise solutions** involving 
 - 🔧 Creating **MCP (Model Context Protocol) servers** for real-time data integration
 - ⚡ Implementing **AI orchestration workflows** with **Azure Logic Apps**
 
-**Technologies:** Azure AI Foundry, Semantic Kernel, PYRIT, LangChain, Gemini, FastAPI, PostgreSQL, PGVector, YOLOv11, Gradio
+**Technologies:** FastAPI, PostgreSQL, PGVector, Azure AI Foundry, Microsoft Agent Framework, PYRIT, LangChain, Gemini, YOLOv11, Gradio
 
 ---
 
