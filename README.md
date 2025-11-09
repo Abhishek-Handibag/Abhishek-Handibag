@@ -138,17 +138,6 @@ A professional-grade AI-powered multi-agent system built with **Google's Agent D
 
 ---
 
-### **Driver Drowsiness Detection System**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-Real-time drowsiness detection system leveraging **facial landmarks (EAR, MAR, FAR)** via **DLIB** to monitor driver alertness.
-- ✅ Integrated audio alerts for drowsiness detection
-- ✅ Automated dataset generation for validation
-- ✅ Web interface using Flask, HTML, and CSS
-- ✅ Designed for potential in-vehicle deployment
-
----
-
 ### **VaultShare - Secure File Sharing Platform**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
@@ -158,6 +147,17 @@ Engineered a secure file-sharing platform with enterprise-grade security feature
 - 🎫 **JWT-based session control** and OTP verification
 - 📁 File versioning and encrypted previews
 - 🐳 Containerized deployment with Docker
+
+---
+
+### **Driver Drowsiness Detection System**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+Real-time drowsiness detection system leveraging **facial landmarks (EAR, MAR, FAR)** via **DLIB** to monitor driver alertness.
+- ✅ Integrated audio alerts for drowsiness detection
+- ✅ Automated dataset generation for validation
+- ✅ Web interface using Flask, HTML, and CSS
+- ✅ Designed for potential in-vehicle deployment
 
 ---
 
