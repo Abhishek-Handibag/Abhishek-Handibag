@@ -1,18 +1,18 @@
 # 👨‍💻 Abhishek Handibag
 
-**AI Engineer | Generative AI | Multi-Agent Systems | LLM Integrations**
+**AI Engineer | Backend Systems (FastAPI, Flask, etc.) | Generative AI | Multi-Agent Systems | LLM Integrations**
 
-📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/abhishek-handibag) | 🌐 [Portfolio](https://me.deepquerry.com) | 📱 +91-8329756270
+📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/abhishek-handibag) | 🌐 [Portfolio](https://me.deepquerry.com) | 📱 +91-8329[...]
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Software Engineer specializing in AI Engineering and Multi-Agent Systems**, passionate about building intelligent systems powered by **Large Language Models (LLMs)**, **retrieval-augmented generation (RAG)**, and **AI orchestration frameworks**.
+I'm a **software engineer specializing in AI Engineering, Backend Systems, and Multi-Agent Systems**, passionate about building intelligent solutions powered by **Large Language Models (LLMs)**, **retrieval-augmented generation (RAG)**, and modern backend architectures.
 
-I focus on **AI-driven automation**, **secure system design**, and **deploying scalable GenAI solutions**. I love creating AI tools that solve real-world problems — from enhancing developer productivity to enabling human–AI collaboration through intelligent agent systems.
+I focus on **AI-driven automation**, **secure system design**, and **deploying scalable GenAI/backend solutions**. Over the years, I’ve worked extensively on backend APIs and platforms using **FastAPI**, **Django**, and related tech, as well as AI platforms involving **multi-agent orchestration**, **AI agent evaluation**, and **secure GenAI pipelines**.
 
-Currently working on **enterprise-scale AI platforms** involving **multi-agent orchestration**, **AI red teaming**, and **secure GenAI pipelines**.
+Currently working on **enterprise-scale AI platforms** involving **multi-agent orchestration**, **AI red teaming**, and **secure, robust backend development**.
 
 ---
 
@@ -21,34 +21,36 @@ Currently working on **enterprise-scale AI platforms** involving **multi-agent o
 ### **Software Engineer — Equations Work**
 📅 *September 2024 – Present | Pune, India*
 
-Contributing to the development of **AI-driven enterprise solutions** involving **multi-agent orchestration**, **retrieval-augmented generation (RAG)**, and **AI security**.
+Contributing to the development of **AI-driven enterprise solutions** involving **multi-agent orchestration**, **retrieval-augmented generation (RAG)**, **backend API development** and **AI security**.
 
 **Key Focus Areas:**
-- 🤖 Designing and implementing **multi-agent systems** using **Azure AI Foundry** and **Semantic Kernel**
+- 🤖 Designing and implementing **multi-agent systems** using **Azure AI Foundry**, **Langchain**, **Langgraph**, **CrewAI**, and **Google ADK**
 - 🔒 Conducting **AI Red Teaming** with **PYRIT** to identify vulnerabilities and implement guardrails
-- 🛡️ Integrating **Azure AI Content Safety** for secure content generation and grounding verification
+- 🛡️ AI agent evaluation using **Azure AI Content Safety** and **Azure Automated evaluations** for large-scale agent deployments
+- ⚙️ Experience in **AI red teaming for agents** using PYRIT
 - 🎯 Building **zero-shot object detection pipelines** with **OWLv2**, **Grounding DINO**, and **YOLOv11**
-- 💬 Developing **context-aware chatbots** using **LangChain**, **Google Gemini**, and **PGVector**
+- 💬 Developing **context-aware chatbots** and multi-agent orchestration using **LangChain**, **Google Gemini**, and **PGVector**
 - 🔧 Creating **MCP (Model Context Protocol) servers** for real-time data integration
 - ⚡ Implementing **AI orchestration workflows** with **Azure Logic Apps**
+- 🛠️ Building scalable and secure backend APIs using **FastAPI**, **Django**, and best DevOps practices
 
-**Technologies:** Azure AI Foundry, Semantic Kernel, PYRIT, LangChain, Gemini, FastAPI, PostgreSQL, PGVector, YOLOv11, Gradio
+**Technologies:** Azure AI Foundry, PYRIT, LangChain, Langgraph, CrewAI, Google ADK, Gemini, FastAPI, Django, PostgreSQL, PGVector, YOLOv11, Gradio
 
 ---
 
 ### **Trainee Software Engineer — Equations Work**
 📅 *March 2024 – August 2024 | Pune, India*
 
-Worked on **AI-powered applications** and **GenAI-integrated platforms**, contributing to full-stack development with AI capabilities.
+Worked on **AI-powered applications** and **GenAI-integrated platforms**, contributing to both AI and backend/full-stack development.
 
 **Key Contributions:**
 - 🎥 Built **multimodal chatbot systems** with semantic search over video content using **RAG pipelines**
 - 🤖 Developed **AI-powered content moderation** systems using **Google Gemini**
 - 🔐 Engineered **SSO authentication** bridging MySQL and MongoDB systems
 - 📊 Created **synthetic data generation platforms** using few-shot prompting with LLMs
-- ⚛️ Developed full-stack applications with **React**, **Flask**, **FastAPI**, and **PostgreSQL**
+- ⚛️ Developed full-stack and backend APIs with **React**, **Flask**, **FastAPI**, **Django**, and **PostgreSQL**
 
-**Technologies:** Python, Flask, FastAPI, React, Material UI, PostgreSQL, MongoDB, LangChain, Google Gemini, OpenAI, NodeBB
+**Technologies:** Python, Flask, FastAPI, Django, React, Material UI, PostgreSQL, MongoDB, LangChain, Google Gemini, OpenAI, NodeBB
 
 ---
 
@@ -60,19 +62,21 @@ Worked on **AI-powered applications** and **GenAI-integrated platforms**, contri
 ![Large Language Models](https://img.shields.io/badge/LLM-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-4B8BBE?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF1493?style=for-the-badge&logo=github&logoColor=white)
 
 ### **AI Frameworks & Orchestration**
 ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
+![Langgraph](https://img.shields.io/badge/Langgraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-4B8BBE?style=for-the-badge&logo=protocol&logoColor=white)
 ![RAG Application](https://img.shields.io/badge/RAG--Application-FF6F00?style=for-the-badge&logo=readme&logoColor=white)
 
 ### **Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
@@ -109,7 +113,7 @@ Worked on **AI-powered applications** and **GenAI-integrated platforms**, contri
 ## 🛠️ Featured Projects
 
 ### **StockSage - AI-Powered Multi-Agent Financial Intelligence System** ⭐
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **[View Repository →](https://github.com/Abhishek-Handibag/StockSage)**
 
@@ -134,7 +138,7 @@ A professional-grade AI-powered multi-agent system built with **Google's Agent D
 ---
 
 ### **Driver Drowsiness Detection System**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 Real-time drowsiness detection system leveraging **facial landmarks (EAR, MAR, FAR)** via **DLIB** to monitor driver alertness.
 - ✅ Integrated audio alerts for drowsiness detection
@@ -145,7 +149,7 @@ Real-time drowsiness detection system leveraging **facial landmarks (EAR, MAR, F
 ---
 
 ### **VaultShare - Secure File Sharing Platform**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 Engineered a secure file-sharing platform with enterprise-grade security features.
 - 🔐 Client-side **AES-128 encryption**
@@ -175,7 +179,8 @@ Engineered a secure file-sharing platform with enterprise-grade security feature
 ## 🔭 Current Focus
 
 - 🤖 Multi-agent orchestration frameworks (Google ADK, CrewAI, LangGraph)
-- 🔒 AI security, red teaming, and guardrail implementation
+- 🔙 Backend/API development (FastAPI, Django) for AI and data-centric platforms
+- 🔒 AI agent evaluation, red teaming, and guardrail implementation (Azure AI Content Safety, Automated Evaluations, PYRIT)
 - 🧠 Advanced RAG architectures and semantic search systems
 - 🎯 Zero-shot learning and foundation model fine-tuning
 - ⚡ LLM optimization and prompt engineering
@@ -185,8 +190,8 @@ Engineered a secure file-sharing platform with enterprise-grade security feature
 
 ## 💬 Let's Collaborate
 
-I'm passionate about **AI engineering**, **multi-agent systems**, and **secure GenAI solutions**.  
-Open to collaborations on **applied ML**, **LLM orchestration**, and **AI system design**.
+I'm passionate about **AI engineering**, **backend systems**, **multi-agent platforms**, and **secure GenAI solutions**.  
+Open to collaborations on **applied ML**, **LLM orchestration**, **robust backend engineering**, and **AI agent evaluation**.
 
 📩 **Get in touch:**
 - Email: [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com)
@@ -197,7 +202,7 @@ Open to collaborations on **applied ML**, **LLM orchestration**, and **AI system
 
 <div align="center">
 
-### ⚡ "Building intelligent systems that augment human capability through AI"
+### ⚡ "Building intelligent systems that augment human capability through AI & robust engineering"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Handibag&color=blue&style=flat-square)
 
