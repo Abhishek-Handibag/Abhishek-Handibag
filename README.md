@@ -24,6 +24,7 @@ Currently working on **enterprise-scale AI platforms** involving **multi-agent o
 Contributing to the development of **AI-driven enterprise solutions** involving **multi-agent orchestration**, **retrieval-augmented generation (RAG)**, **backend API development** and **AI security**.
 
 **Key Focus Areas:**
+- 🛠️ Building scalable and secure backend APIs using **FastAPI**, **Django**, and best DevOps practices
 - 🤖 Designing and implementing **multi-agent systems** using **Azure AI Foundry**, **Langchain**, **Langgraph**, **CrewAI**, and **Google ADK**
 - 🔒 Conducting **AI Red Teaming** with **PYRIT** to identify vulnerabilities and implement guardrails
 - 🛡️ AI agent evaluation using **Azure AI Content Safety** and **Azure Automated evaluations** for large-scale agent deployments
@@ -32,9 +33,9 @@ Contributing to the development of **AI-driven enterprise solutions** involving 
 - 💬 Developing **context-aware chatbots** and multi-agent orchestration using **LangChain**, **Google Gemini**, and **PGVector**
 - 🔧 Creating **MCP (Model Context Protocol) servers** for real-time data integration
 - ⚡ Implementing **AI orchestration workflows** with **Azure Logic Apps**
-- 🛠️ Building scalable and secure backend APIs using **FastAPI**, **Django**, and best DevOps practices
 
-**Technologies:** Azure AI Foundry, PYRIT, LangChain, Langgraph, CrewAI, Google ADK, Gemini, FastAPI, Django, PostgreSQL, PGVector, YOLOv11, Gradio
+
+**Technologies:** FastAPI, LangChain, Langgraph, CrewAI, Azure AI Foundry, PYRIT, Google ADK, Gemini, Django, PostgreSQL, PGVector, JavaScript, YOLOv11, Gradio
 
 ---
 
