@@ -2,7 +2,7 @@
 
 **AI Engineer | Backend Systems (FastAPI, Flask, etc.) | Generative AI | Multi-Agent Systems | LLM Integrations**
 
-📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/abhishek-handibag) | 🌐 [Portfolio](https://me.deepquerry.com) | 📱 +91-8329[...]
+📧 [abhishek.handibag12@gmail.com](mailto:abhishek.handibag12@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/abhishek-handibag) | 🌐 [Portfolio](https://me.deepquerry.com)
 
 ---
 
