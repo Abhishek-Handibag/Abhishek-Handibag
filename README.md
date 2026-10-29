@@ -2,8 +2,7 @@
 
 **AI Engineer | Generative AI & Agentic Systems | Backend Engineering | LLM Applications in Production**
 
-📍 Pune, India · 📧 [Email](mailto:abhishek.handibag12@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-handibag/) · 🧑‍💻 [GitHub](https://github.com/Abhishek-Handibag) · 🌐 [Portfolio](https://me.deepquerry.com)
-
+📍 Pune, India · 📧 [Email](mailto:abhishek.handibag12@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-handibag/) · 🧑‍💻 [GitHub](https://github.com/Abhishek-Handibag)
 ---
 
 ## 🚀 About Me
